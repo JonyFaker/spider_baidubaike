@@ -1,0 +1,2 @@
+# spider_baidubaike
+爬取百度百科的一个简单python爬虫
